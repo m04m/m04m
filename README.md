@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @m04m
+- 👀 I’m interested in data, opensource software, gaming and astronomy
+- 🌱 I’m currently learning machine learning
+- 📫 How to reach me Twitter: @m04m_br
