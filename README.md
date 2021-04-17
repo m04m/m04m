@@ -2,3 +2,4 @@
 - 👀 I’m interested in data, opensource software, gaming and astronomy
 - 🌱 I’m currently learning machine learning
 - 📫 How to reach me Twitter: [@m04m_br](https://twitter.com/m04m_br)
+- Dissertação Mestrado: [A análise preditiva sob o aspecto da regulação](https://comum.rcaap.pt/handle/10400.26/31701)
