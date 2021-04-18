@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @m04m
-- 👀 I’m interested in data, opensource software, gaming and astronomy
-- 🌱 I’m currently learning machine learning
-- 📫 How to reach me Twitter: [@m04m_br](https://twitter.com/m04m_br)
+- 👋 Oi, me chamo Márcio
+- 👀 Estou interessado dados, opensource software, gaming e astronomia
+- 🌱 Atualmente estou aprendendo machine learning
+- 📫 Como me encontrar no Twitter: [@m04m_br](https://twitter.com/m04m_br)
 - Dissertação Mestrado: [A análise preditiva sob o aspecto da regulação](https://comum.rcaap.pt/handle/10400.26/31701)
