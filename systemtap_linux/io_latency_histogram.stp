@@ -1,0 +1,23 @@
+#!/usr/bin/stap
+# Commando: stap -v io_latency_histogram.stp <intervalo-em-segundos>
+
+global LatencyTimes, RequestTime
+
+probe nd_syscall.pread {
+   RequestTime[tid()] = gettimeofday_us()
+}
+
+probe nd_syscall.pread.return {
+   t = gettimeofday_us()
+   s = RequestTime[tid()]
+   if (s > 0) {
+       LatencyTimes <<< (t-s)
+       delete RequestTime[tid()]
+   }
+}
+
+probe timer.sec($1) {
+   if (@count(LatencyTimes) > 0)
+       println(@hist_log(LatencyTimes))
+   delete(LatencyTimes)	   
+}
