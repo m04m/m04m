@@ -1,1 +1,0 @@
-select text from dba_source where owner=upper('&1') and name=upper('&2');

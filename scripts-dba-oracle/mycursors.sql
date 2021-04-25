@@ -1,1 +1,0 @@
-select sql_id,sql_text,count(*) from v$open_cursor where sid=(select unique sid from v$mystat) group by sql_id,sql_text order by 3 desc;

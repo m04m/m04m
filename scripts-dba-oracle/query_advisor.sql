@@ -1,3 +1,0 @@
-@?/rdbms/admin/sqltrpt
-
-

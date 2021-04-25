@@ -1,1 +1,0 @@
-Select Name,TOTAL_MB,FREE_MB from V$ASM_DISKGROUP order by 3;
