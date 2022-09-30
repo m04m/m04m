@@ -1,6 +1,5 @@
 👋 Oi
 
-IT Professional Who Can't Fix Printer!
+Opensource and Data Enthusiast!
 
-👀 Interessado em dados, opensource software, gaming e astronomia
-
+Made in 🇧🇷 |  🎮Gamer since ever | 📚and 🔭 lover |🥋BJJ Black-belt
