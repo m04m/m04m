@@ -1,5 +1,4 @@
 👋 Oi
 
-Opensource and Data Enthusiast!
-
-Made in 🇧🇷 |  🎮Gamer since ever | 📚and 🔭 lover |🥋BJJ Black-belt
+"A motivação é a chave para mover a inovação. Tendo isso em foco, estou sempre estudando novas tecnologias."
+ #opensource #dataenthusiast #data #dataengineering #databases
