@@ -1,5 +1,5 @@
-- 👋 Oi, me chamo Márcio
-- IT Professional Who Can't Fix Printer!
-- 👀 Estou interessado dados, opensource software, gaming e astronomia
-- 🌱 Atualmente estou aprendendo machine learning
-- Dissertação Mestrado: [A análise preditiva sob o aspecto da regulação](https://comum.rcaap.pt/handle/10400.26/31701)
+👋 Oi
+
+"A motivação é a chave para mover a inovação. Tendo isso em foco, estou sempre estudando novas tecnologias."
+
+ #opensource #dataenthusiast #data #dataengineering #databases
