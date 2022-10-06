@@ -1,6 +1,5 @@
 👋 Oi
 
-IT Professional Who Can't Fix Printer!
+"A motivação é a chave para mover a inovação. Tendo isso em foco, estou sempre estudando novas tecnologias."
 
-👀 Interessado em dados, opensource software, gaming e astronomia
-
+ #opensource #dataenthusiast #data #dataengineering #databases
