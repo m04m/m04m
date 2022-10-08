@@ -114,4 +114,4 @@ if __name__ == "__main__":
     humanDetector(args)
 
 
-#python3.9 human-counting-project-code.py -v store_video2.mp4 -o store_video2_out.mp4
+#python3.9 human-counting-project-code.py -v /Users/m04m_br/Downloads/Frutas.avi 
