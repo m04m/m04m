@@ -1,5 +1,5 @@
 👋 Oi
 
-"A motivação é a chave para mover a inovação. Tendo isso em foco, estou sempre estudando novas tecnologias."
+"A motivação é a chave para mover a inovação!"
 
- #opensource #dataenthusiast #data #dataengineering #databases
+#opensource #dataenthusiast #dataengineering #ai
